@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am Machine Learning Engineer with a passion for Research and Science. <br>💬 Add me on LinkedIn or contact me via E-mail.
+🔭 I am Machine Learning Engineer with a passion for Research and Science. <br>💬 Add me on LinkedIn or contact me via [E-mail](xariskoutsis@gmail.com).
 
 
 ## 🌐 Socials:
